@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+</head>
+<style>
+    body{
+        background-image: url("https://cdn.wallpapersafari.com/28/19/obxBz5.png");
+        background-position: center;
+        text-align: center;
+        background-attachment: fixed;
+        background-size: auto;
+        background-repeat: repeat;
+        
+        
+    }
+    .one{
+        background-image: url("https://th.bing.com/th/id/OIP.Ce-FpU-WJLaOD-rd2MuHkwHaE8?pid=ImgDet&rs=1");
+        width: auto;
+
+        text-align: center;
+        color: ghostwhite;
+    }
+    .two{
+        background-color: rgb(255, 180, 82);
+        color: black;
+    }
+    .four{
+        background-color: burlywood;
+    }
+    .five{
+        background-color: rgb(105, 44, 0);
+        color: snow;
+    }
+    .six{
+        background-color: tan;
+    }
+    .three{
+        background-image: url("https://wallpapercave.com/wp/CyT83yY.jpg");
+        color: white;
+    }
+</style>
+<body>
+<div class="1">
+    <div class="one">
+        <h1>Welcome to Limbus!</h1>
+        
+    </div>
+    <div class="two">
+        <p><b>Limbus</b> is a brand which makes some awesome quality products like resin tables,resin coasters,resin clocks, wooden chopping boards and even gaming tables.</p>
+    </div>
+    <div class="three"><h2>Why Limbus ?</h2></div>
+    <div class="four">
+        <p>“What wood is the best for furniture?” As you likely know if you're in the process of furnishing your home, this isn't as simple of a question as it seems at first glance. The answer is dependent on your budget and expected usage. In addition to the wood type and quality used in a furniture piece, the process used to create the piece is another factor that greatly impacts the quality-level of the wood furniture you are considering.</p>
+    </div>
+    <div class="five">
+        <h3>Brand Firm - Woodz Creation</h3>
+    </div>
+    <div class="six">
+        <p>For further queries contact :- <b>Kunal Verma - VKUNAL088@GMAIL.COM</b> </p>
+    </div>
+</div>
+</body>
+</html>
