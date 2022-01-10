@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<style>
+        .one{
+            background-image: url("https://th.bing.com/th/id/R.16f8d0d2a51232a7d8d9a5adff9a7e80?rik=j%2b%2fbd23qVZSLmQ&riu=http%3a%2f%2fwww.myfreetextures.com%2fwp-content%2fuploads%2f2014%2f10%2fseamless-wood3.jpg&ehk=HYi3aOROs9ZxNM6KELcmIve1jCj0h40RPSXesvFhErw%3d&risl=&pid=ImgRaw&r=0");
+            background-color: gray;
+            height: 1000%;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            
+            color: gold;
+        }
+        .two{
+            background-color: black;
+            text-align: center;
+        }
+        img{
+            height: 250px;
+            width: 250px;
+        }
+</style>
+<body>
+    <div class="one">
+        <h1>Image Gallery</h1>
+    </div>
+<div class="two">
+    <img src="https://th.bing.com/th/id/OIP.WH7g0W79t-17xu-zArnDDQHaHa?pid=ImgDet&rs=1" alt="Resin table" >
+    <img src="https://media.glasscastresin.com/products/extralarge/Scottish-Elm-Blue-Dining-Table-by-Marshbeck-Interiors.jpg" alt="Resin table">
+    <img src="https://i.etsystatic.com/21248663/r/il/ae2aef/2403332784/il_794xN.2403332784_7k7d.jpg" alt="resin clock">
+    <img src="https://assets.bigcartel.com/product_images/246976763/7DFCB537-5655-4EBF-967D-C4AD2C4E44EC.jpeg?auto=format&fit=max&h=1200&w=1200" alt="resin clock">
+    <img src="https://i.etsystatic.com/7685625/r/il/90a2ec/1943251015/il_fullxfull.1943251015_1wik.jpg" alt="chopping board">
+    <img src="https://m.media-amazon.com/images/I/81FXGgxOEnL._SL1500_.jpg" alt="chopping board">
+    <img src="https://m.media-amazon.com/images/I/81vWgU1D08L._SL1500_.jpg" alt="chopping board">
+    <img src="https://m.media-amazon.com/images/I/61Hs7-lNnZL._SL1500_.jpg" alt="gaming desk">
+    <img src="https://m.media-amazon.com/images/I/71e44uR6INL._SL1500_.jpg" alt="gaming desk">
+    <img src="https://cpimg.tistatic.com/05640591/b/4/Epoxy-Resin-Dining-Table-Top.jpg" alt="resin table">
+    <img src="https://cpimg.tistatic.com/05640587/b/4/Epoxy-Resin-Design-Table-Top.jpg" alt="resin table">
+    <img src="https://i.etsystatic.com/16537817/r/il/5b09b8/2308727906/il_fullxfull.2308727906_7mvj.jpg" alt="resin coaster">
+</div>    
+</body>
+</html>
