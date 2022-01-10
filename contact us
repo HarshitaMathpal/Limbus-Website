@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+</head>
+<style>
+    body{
+        background-image: url("https://i.stack.imgur.com/ajyCo.png");
+        background-position:center;
+
+
+    }
+    .two{
+        text-align: center;
+        background-color: rgb(255, 238, 0);
+        
+
+    }
+    .one{
+        color: wheat;
+    }
+    
+</style>
+<body>
+    <div class="two">
+        <h1>Contact Us</h1>
+
+    </div>
+    <div>
+        <form action="form.php", method="get">
+            <ul class="one">
+            <li>
+            <label for="name">Name :</label>
+            <input type="text" name="name" id="name" value="Your Name">
+            </li>
+            <br>
+            <li>
+            <label for="add"> Address:</label>
+           <textarea name="add" id="add" cols="30" rows="10" ></textarea>
+            </li>
+           <br>
+           <li>
+           <label for="num">Phone Number :</label>
+           <input type="number" name="num" id="num">
+            </li>
+            <br>
+            <li>
+           <label for="review">Review for Limbus : </label>
+           <textarea name="review" id="review" cols="30" rows="10"></textarea>
+            </li>
+            <br>
+           <li>
+           <input type="submit" name="submit" id="submit">
+           </li>
+        
+        </ul>
+        </form>
+    </div>
+
+</body>
+</html>
