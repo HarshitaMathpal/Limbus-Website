@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <title>Limbus Website</title>
+    <style>
+        body{
+            background-color: rgb(215, 224, 224);
+        }
+        #first{
+            background-color: rgb(124, 1, 161);
+            color: cornsilk;
+            text-align: center;
+        }
+        #second{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+            
+        }
+        .one{
+          text-align: center;
+          margin-right: auto;
+          margin-left: auto;
+          color: darkred;
+
+        }
+        .two{
+            display: block; 
+            margin-right: auto;
+            margin-left: auto;
+            
+        }
+        
+    </style>
+  </head>
+  <body>
+    <header>
+      <div> 
+        <span class="one"><a href="/home.html" target="_main">Home</a></span> 
+        
+        <span class="one"><a href="/contact.html" target="_main">Contact Us</a></span> 
+        <span class="one"><a href="/about.html" target="_main">About</a></span> 
+      </div>
+        <div id="first"><h1>Welcome to Limbus Website</h1></header></div>
+        
+    <main>
+        <div id="second"><img src="/limbus.jpeg" alt="Limbus Brand Logo" width="400px" /></div>
+     
+
+      <h2>
+        Check out Limbus brand materials.
+      </h2>
+
+      <ol type="1">
+        <li>
+          <a
+            href="https://www.amazon.in/LIMBUS-Gaming-48inch-Ergonomic-900mmx400mm/dp/B09H671RSS/ref=sr_1_4?keywords=limbus%2Bgaming%2Btable&qid=1641728092&sprefix=limbus%2Bgami%2Caps%2C346&sr=8-4&th=1"
+            target="_main"
+            >Limbus Gaming Desk</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.amazon.in/LIMBUS-PureWood-Bacterial-Chopping-Cutting/dp/B09PL12S12/ref=sr_1_5?keywords=limbus+chopping+board&qid=1641728468&sprefix=limbus+chopp%2Caps%2C256&sr=8-5"
+            target="_main"
+            >Limbus Chopping Board</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.amazon.in/LIMBUS-Quality-Chopping-Cutting-Kitchen/dp/B09P5MZ9KT/ref=sr_1_3?crid=UUJK0A4KP992&keywords=limbus+chopping+board&qid=1641728729&sprefix=limbus+chopping+board%2Caps%2C572&sr=8-3"
+            target="_main"
+            >Limbus Brick Design Chopping Board</a
+          >
+        </li>
+      </ol>
+      <div class="two">
+        <video src="gaming.mp4" controls width="350px">Error</video>
+      </div>
+      
+    </main>
+    <footer></footer>
+  </body>
+</html>
